@@ -1,0 +1,6 @@
+{
+  "name": "Solace — Calming Mini Games",
+  "description": "A stylish, tranquil suite of mindful mini-games including Dusk Dino Runner, Zen Sudoku with levels, Serene 2048, and Harmony Pairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
